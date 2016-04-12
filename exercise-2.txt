@@ -1,0 +1,111 @@
+
+Adding answer for ticket #36
+
+1. JQ: Give an example of a class selector and an ID selector
+	$('.class-name')
+	$('#id-name')
+
+2. How do I save in vi? 
+	:w
+
+3. GIT: How do I change a commit? 
+	git commit --amend 
+
+4. GIT: How do I clone a repo? 
+	git clone https://github.com/thanduxolo/exercises.git
+
+5. GIT: How do I list my changes? 
+	ls
+
+6. GIT: How do I change to my project directory? 
+	cd directory_name
+
+7. GIT: How do I check my git config? 
+	git config –list
+
+8. GIT: How do I see what files are tracked or untracked? 
+	git status 
+
+9. GIT: How do I push a file to the remote? 
+	git push origin master
+
+10. GIT: What should I put in my commit message? 
+	A brief comment on your changes
+
+11. GIT: How do I make a commit? 
+	git commit -m”commit message”
+
+12. GIT: How do I add a file to a commit? 
+	git add file_name
+
+13. GIT: What is a commit? 
+	Commit record changes to the repository.
+
+14. GIT: Where do you run git commands from? 
+	From a Command Line Interface(CLI)
+
+15. What is a docroot or document root? 
+	The document root is a directory (a folder) that is stored on a host's servers and that is designated for 		holding web pages. When someone else looks at your web site, this is the location they will be 	accessing.  
+
+16. How do I change to my project directory? 
+	cd directory-name
+
+17. What do I mean when I say change to your project directory? 
+	You want me to change to my working directory.
+
+18. What's a working directory? 
+	A directory that contains all the files and folders of a project that I am currently working on.
+
+19. What's a file? 
+	A file is a named collection of related information that is retained in storage.
+
+20. JS: Explain the scope of variables declared using "var" and those declared without "var"
+	Variables declared using “var” are declared in the current scope. If the declaration appears in a function 		– a local variable is declared; if it is in a global scope – a global variable is declared.
+	On the other hand variables without “var” keyword, if declared within a function that variable will be 		global in scope. 
+
+
+21. JS: How can we debug in the browser? 
+	You need to install Firebug.
+
+22. JS: When do you use "var" in front of your variables? 
+	When you declare those variables.
+
+23. JS: What are the javascript data types? 
+	Are the types of data a javascript variable can contain. For example string, number, boolean, array and 		object.
+
+24. What's a directory? 
+	A special type of file that contains a list of objects(e.g. files, directories).
+
+25. What's a URL? 
+	URL stands for Uniform Resource Locator, and is used to specify addresses on the World Wide Web. 
+	A URL is the fundamental network identification for any resource connected to the web (e.g., hypertext 		pages, images, and sound files). 
+
+26. JS: What's the acronym for remembering the order of operations? 
+	BODMAS
+
+27. JS: What's a boolean? 
+	A binary variable, having two possible values called “true” and “false.”
+
+28. JS: What's the order of operations in math? 
+	Brackets,  Division and Multiplication, Addition and subtraction
+
+29. What's a remote? 
+	Remote is version of a project that is hosted on the Internet or network somewhere.
+
+30. What's a client? 
+	A computer that is capable of obtaining information and applications from a server.
+
+31. What's a server? 
+	A computer or computer program that manages access to a centralized resource or service in a 		network.
+
+32. What are the elements of a command? 
+	The command contains the name of the user, the name of the computer and the name of the current 		directory.
+
+33. How do you re-run the previous command? 
+	CTRL + p
+
+34. How do I see what's in the root directory?
+	ls
+
+35. How do I change to the directory above mine? 
+	cd ..
